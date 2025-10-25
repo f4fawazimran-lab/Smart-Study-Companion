@@ -1,3 +1,5 @@
+# Smart Study Companion
+
 ## Summary
-Smart Study Companion is an AI-powered virtual assistant that helps students learn smarter. It explains difficult topics, creates study plans, and generates quizzes using natural language processing to make studying easier, faster, and more personalized. (Building AI course project)
+Smart Study Companion is an intelligent productivity and study assistant that helps students plan, track, and enhance their learning. It offers AI-powered insights, progress visualization, and reminders to create a focused, efficient study environment.
 
